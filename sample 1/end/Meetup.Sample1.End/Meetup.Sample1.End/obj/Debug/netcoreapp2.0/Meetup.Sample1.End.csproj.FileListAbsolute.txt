@@ -1,0 +1,11 @@
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\bin\Debug\netcoreapp2.0\Meetup.Sample1.End.deps.json
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\bin\Debug\netcoreapp2.0\Meetup.Sample1.End.runtimeconfig.json
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\bin\Debug\netcoreapp2.0\Meetup.Sample1.End.runtimeconfig.dev.json
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\bin\Debug\netcoreapp2.0\Meetup.Sample1.End.dll
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\bin\Debug\netcoreapp2.0\Meetup.Sample1.End.pdb
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\obj\Debug\netcoreapp2.0\Meetup.Sample1.End.csprojResolveAssemblyReference.cache
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\obj\Debug\netcoreapp2.0\Meetup.Sample1.End.csproj.CoreCompileInputs.cache
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\obj\Debug\netcoreapp2.0\Meetup.Sample1.End.AssemblyInfoInputs.cache
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\obj\Debug\netcoreapp2.0\Meetup.Sample1.End.AssemblyInfo.cs
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\obj\Debug\netcoreapp2.0\Meetup.Sample1.End.dll
+C:\Users\02483292\Desktop\meetup\sample 1\end\Meetup.Sample1.End\Meetup.Sample1.End\obj\Debug\netcoreapp2.0\Meetup.Sample1.End.pdb
