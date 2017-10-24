@@ -15,7 +15,6 @@ namespace MeetupDISample.BlobStorage
             _containerName = "file";
         }
 
-
         public void Upload(string fileName, string text)
         {
             CloudStorageAccount storageAccount = CloudStorageAccount.Parse(_connectionString);
