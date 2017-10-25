@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\02483292\\Desktop\\meetup\\sample 1\\end\\Meetup.Sample1.End\\Meetup.Sample1.End\\Meetup.Sample1.End.csproj",
+      "projectUniqueName": "C:\\Users\\02483292\\Desktop\\MsMeetup20171025\\sample 1\\end\\Meetup.Sample1.End\\Meetup.Sample1.End\\Meetup.Sample1.End.csproj",
       "projectName": "Meetup.Sample1.End",
-      "projectPath": "C:\\Users\\02483292\\Desktop\\meetup\\sample 1\\end\\Meetup.Sample1.End\\Meetup.Sample1.End\\Meetup.Sample1.End.csproj",
+      "projectPath": "C:\\Users\\02483292\\Desktop\\MsMeetup20171025\\sample 1\\end\\Meetup.Sample1.End\\Meetup.Sample1.End\\Meetup.Sample1.End.csproj",
       "packagesPath": "C:\\Users\\02483292\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\02483292\\Desktop\\meetup\\sample 1\\end\\Meetup.Sample1.End\\Meetup.Sample1.End\\obj\\",
+      "outputPath": "C:\\Users\\02483292\\Desktop\\MsMeetup20171025\\sample 1\\end\\Meetup.Sample1.End\\Meetup.Sample1.End\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
