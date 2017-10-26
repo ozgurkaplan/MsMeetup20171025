@@ -12,8 +12,8 @@ namespace MeetupDISample.BlobStorage
 
         public AzureFileUpload()
         {
-            _connectionString = "DefaultEndpointsProtocol=https;AccountName=ozgurblob;AccountKey=MDJowe/lI0VzKkDnrUh5sOBNNZjvTA5KA82Lb2vOC/hplfae/spIQWjkagdwhwD4NcYqgXw8SlfSs+WSh4qMyw==;EndpointSuffix=core.windows.net";
-            _containerName = "file";
+            _connectionString = "<Connection String Girin>";
+            _containerName = "<Container adı girin>";
         }
 
 

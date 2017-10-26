@@ -9,3 +9,14 @@ C:\Users\02483292\Desktop\meetup\sample 1\start\Meetup.Sample1.Start\Meetup.Samp
 C:\Users\02483292\Desktop\meetup\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.AssemblyInfo.cs
 C:\Users\02483292\Desktop\meetup\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.dll
 C:\Users\02483292\Desktop\meetup\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.pdb
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\bin\Debug\netcoreapp2.0\Meetup.Sample1.Start.deps.json
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\bin\Debug\netcoreapp2.0\Meetup.Sample1.Start.runtimeconfig.json
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\bin\Debug\netcoreapp2.0\Meetup.Sample1.Start.runtimeconfig.dev.json
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\bin\Debug\netcoreapp2.0\Meetup.Sample1.Start.dll
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\bin\Debug\netcoreapp2.0\Meetup.Sample1.Start.pdb
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.csprojResolveAssemblyReference.cache
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.csproj.CoreCompileInputs.cache
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.AssemblyInfoInputs.cache
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.AssemblyInfo.cs
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.dll
+C:\Users\02483292\Desktop\MsMeetup20171025\sample 1\start\Meetup.Sample1.Start\Meetup.Sample1.Start\obj\Debug\netcoreapp2.0\Meetup.Sample1.Start.pdb

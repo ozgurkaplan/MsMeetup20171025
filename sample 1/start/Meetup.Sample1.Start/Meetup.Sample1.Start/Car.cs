@@ -1,13 +1,18 @@
-﻿using Meetup.Sample1.Start.Engine;
+﻿using System.Reflection.Emit;
+
 
 namespace Meetup.Sample1.Start
 {
     public class Car
     {
+        private readonly IEngine _engine;
+        public Car(IEngine engine)
+        {
+            _engine = engine;
+        }
         public void Start()
         {
-            var engine = new GasEngine();
-            engine.st
+            _engine.Start();
         }
     }
 }

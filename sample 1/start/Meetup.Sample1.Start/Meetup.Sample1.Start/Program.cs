@@ -1,4 +1,5 @@
 ﻿using System;
+using Meetup.Sample1.Start.Engine;
 
 namespace Meetup.Sample1.Start
 {
@@ -6,8 +7,10 @@ namespace Meetup.Sample1.Start
     {
         static void Main(string[] args)
         {
-            var car = new Car();
-            car.Start();
+            var gasCar = new Car(new GasEngine());
+            gasCar.Start();
+            var hybridCar = new Car(new HybridEngine());
+            hybridCar.Start();
         }
     }
 }
